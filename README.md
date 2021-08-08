@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 JUST DO IT for your happyness. 😆 
 
 ### 🔧 Career
-#### 🐧 Server Infrastructure Engineer 2013 ~ 2020 
+#### Server Infrastructure Engineer 2013 ~ 2020 
 * Redhat Enterprise Linux / CentOS 5~7
 * Redhat Cluster Suite / Pacemaker
 * Redhat Virtualization 2~4 

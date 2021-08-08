@@ -18,13 +18,10 @@ JUST DO IT for your happyness. 😆
 
 ### 🔧 Career
 #### Server Infrastructure Engineer 2013 ~ 2020 
-* Redhat Enterprise Linux 5~7
+* Redhat Enterprise Linux / CentOS 5~7
 * Redhat Cluster Suite / Pacemaker
 * Redhat Virtualization 2~4 
-* Docker
 * Openstack 13
-* Openshift 3
-* Ceph
 
 ### 📌 Now
 Codestates Software Engineer Bootcamp 

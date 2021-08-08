@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **shleecloud/shleecloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi there 
+
+### 🔧 Career
+#### Server Infrastructure Engineer 2013 ~ 2020 
+* Redhat Enterprise Linux 5~7
+* Redhat Cluster Suite / Pacemaker
+* Redhat Virtualization 2~4 
+* Docker
+* Openstack 13
+* Openshift 3
+* Ceph
+
+### 📌 Now
+Codestates Software Engineer Bootcamp 
+
+
+### 🐙 Github
+https://github.com/shleecloud
+
+### ✍️ Blog
+https://velog.io/@shleecloud

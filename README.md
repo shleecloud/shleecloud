@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there 
-JUST DO IT for your happyness. 😆
-Enjoy the journey to learn. and run. 🏃
-If you want it, whatever you can do! 🔥
-Take care and be safe always. 😷
+JUST DO IT for your happyness. 😆 <br>
+Enjoy the journey to learn. and run. 🏃 <br>
+If you want it, whatever you can do! 🔥 <br>
+Take care and be safe always. 😷 <br>
 
 ### 🔧 Career
 #### Server Infrastructure Engineer 2013 ~ 2020 

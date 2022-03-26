@@ -16,6 +16,17 @@ Here are some ideas to get you started:
 ## 👋 Hi there 
 JUST DO IT for your happyness. 😆 
 
+### 🧑‍💻 Stack
+- Frontend
+`Javascript` `Typescript` `HTML` `CSS` `React` `Redux` `Styled-components`
+- Backend
+`NodeJS` `Express` `MySQL`
+- Communication
+`Git` `Figma`
+- DevOps
+`Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
+
+
 ### 🔧 Career
 #### Server Infrastructure Engineer 2013 ~ 2020 
 * Redhat Enterprise Linux / CentOS 5~7

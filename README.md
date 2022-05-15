@@ -34,9 +34,12 @@ JUST DO IT for your happyness. 😆
 * Redhat Virtualization 2~4 
 * Openstack 13
 
-### 📌 Now
-Codestates Software Engineer Bootcamp 
+#### Codestates Software Engineer Bootcamp 2021
+* [LearnRegex](https://github.com/codestates/LearnRegex)
+* [CMUSICAL](https://github.com/codestates/CMUSICAL)
 
+### 📌 Now
+FullStack Developer
 
 ### 🐙 Github
 https://github.com/shleecloud

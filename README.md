@@ -20,9 +20,9 @@ JUST DO IT for your happyness. 😆
 - Frontend
 `Javascript` `Typescript` `HTML` `CSS` `React` `Redux` `Styled-components`
 - Backend
-`NodeJS` `Express` `MySQL`
+`NodeJS` `Express` `MySQL` `Sequelize`
 - Communication
-`Git` `Figma`
+`Git` `Figma` 
 - DevOps
 `Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
 

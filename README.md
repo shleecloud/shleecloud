@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 👋 Hi there 
 JUST DO IT for your happyness. 😆 
 
-### 🧑‍💻 Stack
+### 👨‍💻 Stack
 - Frontend
 `Javascript` `Typescript` `HTML` `CSS` `React` `Redux` `Styled-components`
 - Backend

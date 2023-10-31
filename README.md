@@ -17,29 +17,25 @@ Here are some ideas to get you started:
 JUST DO IT for your happyness. 😆 
 
 ### 👨‍💻 Stack
-- Frontend
-`Javascript` `Typescript` `HTML` `CSS` `React` `Redux` `Styled-components`
-- Backend
-`NodeJS` `Express` `MySQL` `Sequelize`
-- Communication
-`Git` `Figma` 
-- DevOps
-`Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
-
+- Frontend `Javascript` `Typescript` `React` `NextJS` `Styled-components`
+- Backend `NodeJS` `Express` `NestJS` `MySQL`
+- DevOps `Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
 
 ### 🔧 Career
+#### [셀프빨래방 결제 앱 바로](https://www.baroapp.co.kr/) TechLead 2022. 4 ~ 2023. 7
+* Android Kiosk, Mobile App `ReactNative Webview` `React` `NextJS`
+* Server `NodeJS/Express` `NestJS` 
+* DevOps `AWS` `ElasticStack` `Jest` `Cypress`
+
+#### Codestates Fullstack Software Engineer Bootcamp 2021
+* [LearnRegex](https://github.com/codestates/LearnRegex)
+* [CMUSICAL](https://github.com/codestates/CMUSICAL)
+
 #### Server Infrastructure Engineer 2013 ~ 2020 
 * Redhat Enterprise Linux / CentOS 5~7
 * Redhat Cluster Suite / Pacemaker
 * Redhat Virtualization 2~4 
 * Openstack 13
-
-#### Codestates Software Engineer Bootcamp 2021
-* [LearnRegex](https://github.com/codestates/LearnRegex)
-* [CMUSICAL](https://github.com/codestates/CMUSICAL)
-
-### 📌 Now
-FullStack Developer
 
 ### 🐙 Github
 https://github.com/shleecloud

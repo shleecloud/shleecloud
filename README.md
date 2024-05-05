@@ -17,11 +17,15 @@ Here are some ideas to get you started:
 JUST DO IT for your happyness. 😆 
 
 ### 👨‍💻 Stack
-- Frontend `Javascript` `Typescript` `React` `NextJS` `Styled-components`
+- Frontend `Javascript` `Typescript` `React` `NextJS` `Vue` `ReactQuery` `Styled-components(emotion)`
 - Backend `NodeJS` `Express` `NestJS` `MySQL`
 - DevOps `Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
 
 ### 🔧 Career
+#### [QED 큐이디](https://qedgolf.com/) Senior Frontend Engineer 2024. 1 ~ Now
+* IoT Dashboard `React` `ReactQuery` 
+* Customer Management System for Global `Vue`
+
 #### [셀프빨래방 결제 앱 바로](https://www.baroapp.co.kr/) TechLead 2022. 4 ~ 2023. 7
 * Android Kiosk, Mobile App `ReactNative Webview` `React` `NextJS`
 * Server `NodeJS/Express` `NestJS` 
@@ -37,9 +41,7 @@ JUST DO IT for your happyness. 😆
 * Redhat Virtualization 2~4 
 * Openstack 13
 
-### 🐙 Github
-https://github.com/shleecloud
-
 ### ✍️ Blog
-https://velog.io/@shleecloud <br />
-https://shlee.cloud
+https://shlee.cloud <br />
+https://velog.io/@shleecloud 
+

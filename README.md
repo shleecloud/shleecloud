@@ -22,9 +22,9 @@ JUST DO IT for your happyness. 😆
 - DevOps `Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
 
 ### 🔧 Career
-#### [QED 큐이디](https://qedgolf.com/) Senior Frontend Engineer 2024. 1 ~ Now
-* IoT Dashboard `React` `ReactQuery` 
-* Customer Management System for Global `Vue`
+#### [QED 큐이디](https://qedgolf.com/) Senior Software Engineer 2024. 1 ~ 9
+* IoT Dashboard, Android Kiosk `React` `ReactQuery` 
+* IoT Api Server `NodeJS/Express` `NestJS` 
 
 #### [셀프빨래방 결제 앱 바로](https://www.baroapp.co.kr/) TechLead 2022. 4 ~ 2023. 7
 * Android Kiosk, Mobile App `ReactNative Webview` `React` `NextJS`

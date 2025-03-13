@@ -22,6 +22,10 @@ JUST DO IT for your happyness. 😆
 - DevOps `Linux` `Virtualization`  `Openstack` `Docker` `Kubernetes` `AWS(EC2, RDS S3)`
 
 ### 🔧 Career
+#### [공간AI](https://gongganai.com/) Co-Founder CTO 2025. 1 ~ 
+* IoT Dashboard, Android Kiosk `React` `ReactQuery` `ReactNative` `Electron`
+* IoT Api Server `NodeJS/Express` `NestJS`
+
 #### [QED 큐이디](https://qedgolf.com/) Senior Software Engineer 2024. 1 ~ 9
 * IoT Dashboard, Android Kiosk `React` `ReactQuery` 
 * IoT Api Server `NodeJS/Express` `NestJS` 

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi there 
-JUST DO IT for your happyness. 😆 
+JUST DO IT for your happiness. 😆 
 
 ### 👨‍💻 Stack
 - Frontend `Javascript` `Typescript` `React` `NextJS` `Vue` `ReactQuery` `Styled-components(emotion)`
